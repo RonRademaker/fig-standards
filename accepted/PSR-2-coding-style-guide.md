@@ -268,7 +268,7 @@ class ClassName
 In the argument list, there MUST NOT be a space before each comma, and there
 MUST be one space after each comma.
 
-Method arguments with default values MUST go at the end of the argument
+Method arguments with default values SHOULD go at the end of the argument
 list.
 
 ```php
