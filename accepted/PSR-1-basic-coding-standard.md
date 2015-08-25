@@ -113,7 +113,9 @@ least one level: a top-level vendor name.
 
 Class names MUST be declared in `StudlyCaps`.
 
-Code written for PHP 5.3 and after MUST use formal namespaces.
+Code written for PHP 5.3 and after MAY use formal namespaces.
+
+Code written in packages started after September 2015 MUST use formal namespaces.
 
 For example:
 
