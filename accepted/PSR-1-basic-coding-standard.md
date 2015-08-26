@@ -115,7 +115,10 @@ Class names MUST be declared in `StudlyCaps`.
 
 Code written for PHP 5.3 and after MAY use formal namespaces.
 
-Code written in packages created after September 2015 MUST use formal namespaces.
+Code written for packages that were first released after September 2015 MUST use formal namespaces, unless this breaks the working of the package.
+Packages SHOULD have namespace structure guidelines indicating how formal namespaces should be used in the package before July 2016.
+New code written for packages that have formal namespace guidelines MUST follow these guidelines.
+
 
 For example:
 
