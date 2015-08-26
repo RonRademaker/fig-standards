@@ -119,7 +119,6 @@ Code written for packages that were first released after September 2015 MUST use
 Packages SHOULD have namespace structure guidelines indicating how formal namespaces should be used in the package before July 2016.
 New code written for packages that have formal namespace guidelines MUST follow these guidelines.
 
-
 For example:
 
 ```php
